@@ -1,5 +1,4 @@
 # Robot-arm-base
-قاعدة الذراع الالي والصندوق الخاص بالقطع
 
 The base of the robotic arm is the one that moves the arm to any place it wants, and the design of the box is to put the control circuits in it.
 
